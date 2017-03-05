@@ -2,10 +2,11 @@
   "ecmaVersion": 6,
   "libs": [
     "browser",
-    "node"
+    "node",
+    "ecma6",
+    "ecma5"
   ],
-  "loadEagerly": [
-  ],
+  "loadEagerly": [],
   "plugins": {
     "modules": {
       "dontLoad": "",
